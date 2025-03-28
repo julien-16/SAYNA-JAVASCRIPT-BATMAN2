@@ -1,4 +1,5 @@
-# SAYNA-JAVASCRIPT-PANTHER  By Julien Essowè ALABA
+# SAYNA-JAVASCRIPT-PANTHER  
+By Julien Essowè ALABA
 
 JAVASCRIPT Evaluation with SAYNA
 
